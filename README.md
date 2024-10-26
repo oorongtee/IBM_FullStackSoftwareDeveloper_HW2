@@ -2,6 +2,8 @@
 
 Course: IBM Full Stack Software Developer Professional Certificate >> Getting Started with Git and GitHub
 
+## Simple Interest Calculator
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
